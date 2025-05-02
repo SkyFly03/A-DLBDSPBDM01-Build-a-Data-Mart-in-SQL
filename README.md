@@ -15,15 +15,15 @@
 - Implement foreign key relationships and referential integrity  
 - Populate test data (20+ rows per table)  
 - Write and verify multi-table join queries  
-- Document schema, metadata, and use case validation  
+- Document schema, metadata, and use case validation
+![image](https://github.com/user-attachments/assets/3ad5f773-36d2-46f3-83b7-626076cbf5e9)
 
 ## 2. Entity Relationship Diagram (ERD) 
 
 - Created in **MySQL Workbench** ![image](https://github.com/user-attachments/assets/91fc5c0c-04fa-4071-b920-8f1a5234a8a6)
 - 25 entities including recursive and ternary relationships
 - Uses Chen notation for cardinality and structure
- 
-![image](https://github.com/user-attachments/assets/f10d0650-6b30-4f6f-a975-023891e5f853)
+![image](https://github.com/user-attachments/assets/6b2e25c1-e83b-4e43-bfcd-8f78b9eb0171)
 
 ## 3. Installation & Setup
 
