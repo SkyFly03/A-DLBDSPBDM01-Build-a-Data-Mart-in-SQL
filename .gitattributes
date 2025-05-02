@@ -1,0 +1,7 @@
+*.sql linguist-detectable=true 
+*.sql linguist-language=SQL 
+*.pdf linguist-vendored 
+*.mwb linguist-vendored 
+*.sql linguist-language=SQL 
+*.pdf linguist-vendored 
+*.mwb linguist-vendored 
