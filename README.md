@@ -20,7 +20,7 @@
 
 ## 2. Entity Relationship Diagram (ERD) 
 
-- Created in **MySQL Workbench** ![image](https://github.com/user-attachments/assets/91fc5c0c-04fa-4071-b920-8f1a5234a8a6)
+- Created in **MySQL Workbench** 
 - 25 entities including recursive and ternary relationships
 - Uses Chen notation for cardinality and structure
 ![image](https://github.com/user-attachments/assets/6b2e25c1-e83b-4e43-bfcd-8f78b9eb0171)
