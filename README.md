@@ -71,4 +71,8 @@ The database simulates a production-ready backend for a vacation rental platform
 
 ## 7. License
 
-This project is intended solely for educational and academic use as part of the IU Bachelor of Data Science program.
+### Disclaimer
+This project was created for educational purposes only as part of an academic assignment.  
+It is not affiliated with or endorsed by Airbnb, Inc.  
+All data used is fictional and was manually created by the author for the purpose of demonstrating a relational database system.  
+The use of the term "Airbnb-style booking platform" is solely for illustrative and descriptive purposes.
