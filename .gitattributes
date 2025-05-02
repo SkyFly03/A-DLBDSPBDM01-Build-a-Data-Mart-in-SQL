@@ -1,1 +1,4 @@
 *.sql linguist-language=SQL
+
+*.pdf linguist-vendored
+*.mwb linguist-vendored
