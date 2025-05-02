@@ -1,9 +1,3 @@
-Main_directory_Skynar-Anita_92124577_DLBDSPBDM01_Data_Mart_Submission_all.zip
-
-
-
-
-
 --------------------------------------------------
 -- Airbnb Datamart Database Setup
 -- Disabling foreign key checks for smooth table creation
